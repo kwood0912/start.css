@@ -57,7 +57,7 @@ body { height: 100%; width: 100%; }
 .text-strikeout { text-decoration: line-through; }
 
 /*text turns to ellipse when overflowing*/
-.no-overflow {
+.text-no-overflow {
 	box-sizing: border-box;
 	overflow: hidden;
 	white-space: nowrap;
